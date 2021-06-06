@@ -1,0 +1,26 @@
+  details{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+  }
+  .block-level-element, .inline-element{
+    border: 1px solid blue;
+  }
+  .answer {
+    padding: 20px;
+    margin: 20px;
+    background-color: peru;
+  }
+  .comment, .practice{
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 20px;
+  }
+  .exercise {
+    color: peru;
+    border: 4px dotted peru;
+    margin: 10px;
+  }
+  .followup{
+    border: 2px solid peru;
+  }
